@@ -2,6 +2,8 @@
 基于wordpress 框架和 git主题修改。自适应手机端，支持搜索功能。已关闭评论/登录，需要的自己开启。
 适用于新闻 资讯 CMS 商品展示。已发布到项目“同城优惠网”，配合小程序模板可以一键打包生成微信小程序/百度小程序等。 
 演示地址:  hy.tcyhw.top  www.tcyhw.top
+Gitee 连接： https://gitee.com/PublicGuan/tcyhw_wp_cms
+
 ##PC端
 ###主页
 ![avatar](./img/1.jpg)
